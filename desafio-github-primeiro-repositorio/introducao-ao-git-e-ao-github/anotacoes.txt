@@ -1,0 +1,6 @@
+------- Estudar -------
+--> Compreender melhor o funcionamento do git;
+--> Utilizar os comandos do github; 
+--> Utilidades do .gitignore;
+
+
